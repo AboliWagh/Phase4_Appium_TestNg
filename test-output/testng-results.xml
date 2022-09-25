@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-25T21:37:06 SGT" name="Suite" finished-at="2022-09-25T21:38:03 SGT" duration-ms="57099">
+    <groups>
+    </groups>
+    <test started-at="2022-09-25T21:37:06 SGT" name="Test" finished-at="2022-09-25T21:38:03 SGT" duration-ms="57099">
+      <class name="project.Testcases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:project.Testcases@1de5f259]" started-at="2022-09-25T21:37:06 SGT" name="setUp" finished-at="2022-09-25T21:37:21 SGT" duration-ms="14894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddTextViewTest()[pri:0, instance:project.Testcases@1de5f259]" started-at="2022-09-25T21:37:21 SGT" name="AddTextViewTest" finished-at="2022-09-25T21:37:26 SGT" duration-ms="4963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddTextViewTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:project.Testcases@1de5f259]" started-at="2022-09-25T21:37:26 SGT" name="tearDown" finished-at="2022-09-25T21:37:27 SGT" duration-ms="1541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:project.Testcases@1de5f259]" started-at="2022-09-25T21:37:27 SGT" name="setUp" finished-at="2022-09-25T21:37:39 SGT" duration-ms="11498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SampleTest()[pri:0, instance:project.Testcases@1de5f259]" started-at="2022-09-25T21:37:39 SGT" name="SampleTest" finished-at="2022-09-25T21:38:01 SGT" duration-ms="22582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SampleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:project.Testcases@1de5f259]" started-at="2022-09-25T21:38:01 SGT" name="tearDown" finished-at="2022-09-25T21:38:03 SGT" duration-ms="1533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- project.Testcases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
